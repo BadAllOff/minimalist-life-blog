@@ -5,8 +5,9 @@ And I decided that I need some refresher on that topic too.
 
 * Flexbox
 * Media queries
+* Transitions
 * Building and styling proper navigation
-* ... other essentials like positioning, image manipuations etc.
+* ... other essentials like positioning, image manipuations, transitions etc.
 
 Original AdobeXD view
 
