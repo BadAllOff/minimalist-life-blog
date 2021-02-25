@@ -1,6 +1,8 @@
 ### <span style="color:red">"Remember ... " - Mufasa talking about layout basics to Simba.</span> 
 And I decided that I need some refresher on that topic too.
 
+[Live Preview](https://badalloff.github.io/minimalist-life-blog/)
+
 ### Topics covered in development process:
 
 * Flexbox
